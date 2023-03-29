@@ -1,5 +1,14 @@
+//body {
+//	background-color: #D3D3D3;
+//}
+
 body {
-	background-color: #D3D3D3;
+  background-image: url("https://img.qraved.co/v2/image/data/angkringan-1524813228072-l.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 1em black;
 }
 
 .container {
